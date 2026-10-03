@@ -1,5 +1,5 @@
 # PotatoClock
-
+**简体中文** | [English](README.en.md)
 Windows 上的轻量番茄钟。无边框置顶小窗 + 托盘常驻 + 任务清单 + 中英双语 + 可换配色，界面按 Apple Human Interface Guidelines 的取值自绘（圆角、层级、动效曲线），基于 WinForms / .NET 10。
 
 | 深色 | 浅色（English） |
