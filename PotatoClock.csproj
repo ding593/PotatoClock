@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>PotatoClock</RootNamespace>
+    <AssemblyName>PotatoClock</AssemblyName>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!-- 自绘控件全部由代码赋值，不需要设计器序列化元数据 -->
+    <NoWarn>$(NoWarn);WFO1000</NoWarn>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <ApplicationVisualStyles>true</ApplicationVisualStyles>
+    <ApplicationIcon>Assets\app.ico</ApplicationIcon>
+    <Version>1.0.0</Version>
+    <AssemblyTitle>PotatoClock 土豆钟</AssemblyTitle>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\app.ico" LogicalName="PotatoClock.app.ico" />
+    <EmbeddedResource Include="Assets\logo.png" LogicalName="PotatoClock.logo.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+{
+  "Version": 2,
+  "FocusMinutes": 25,
+  "ShortBreakMinutes": 5,
+  "LongBreakMinutes": 15,
+  "RoundsBeforeLongBreak": 4,
+  "SoundEnabled": true,
+  "NotifyEnabled": true,
+  "TopMost": true,
+  "MinimizeToTrayOnClose": true,
+  "ExpandTasksOnStart": true,
+  "Language": "en",
+  "ThemeName": "mint",
+  "BackgroundHex": "#FF0F1F1D",
+  "ForegroundHex": "#FFECFFFC",
+  "AccentHex": "#FF00DAC3"
+}

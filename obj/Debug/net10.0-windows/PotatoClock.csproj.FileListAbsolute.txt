@@ -1,0 +1,16 @@
+F:\app\TomatoClock\PotatoClock\PotatoClock\bin\Debug\net10.0-windows\PotatoClock.exe
+F:\app\TomatoClock\PotatoClock\PotatoClock\bin\Debug\net10.0-windows\PotatoClock.deps.json
+F:\app\TomatoClock\PotatoClock\PotatoClock\bin\Debug\net10.0-windows\PotatoClock.runtimeconfig.json
+F:\app\TomatoClock\PotatoClock\PotatoClock\bin\Debug\net10.0-windows\PotatoClock.dll
+F:\app\TomatoClock\PotatoClock\PotatoClock\bin\Debug\net10.0-windows\PotatoClock.pdb
+F:\app\TomatoClock\PotatoClock\PotatoClock\obj\Debug\net10.0-windows\PotatoClock.GeneratedMSBuildEditorConfig.editorconfig
+F:\app\TomatoClock\PotatoClock\PotatoClock\obj\Debug\net10.0-windows\PotatoClock.AssemblyInfoInputs.cache
+F:\app\TomatoClock\PotatoClock\PotatoClock\obj\Debug\net10.0-windows\PotatoClock.AssemblyInfo.cs
+F:\app\TomatoClock\PotatoClock\PotatoClock\obj\Debug\net10.0-windows\PotatoClock.csproj.CoreCompileInputs.cache
+F:\app\TomatoClock\PotatoClock\PotatoClock\obj\Debug\net10.0-windows\PotatoClock.dll
+F:\app\TomatoClock\PotatoClock\PotatoClock\obj\Debug\net10.0-windows\refint\PotatoClock.dll
+F:\app\TomatoClock\PotatoClock\PotatoClock\obj\Debug\net10.0-windows\PotatoClock.pdb
+F:\app\TomatoClock\PotatoClock\PotatoClock\obj\Debug\net10.0-windows\PotatoClock.genruntimeconfig.cache
+F:\app\TomatoClock\PotatoClock\PotatoClock\obj\Debug\net10.0-windows\ref\PotatoClock.dll
+F:\app\TomatoClock\PotatoClock\PotatoClock\obj\Debug\net10.0-windows\PotatoClock.Forms.MainForm.resources
+F:\app\TomatoClock\PotatoClock\PotatoClock\obj\Debug\net10.0-windows\PotatoClock.csproj.GenerateResource.cache
